@@ -1,0 +1,3 @@
+Beneficios del producto.
+
+AWS ofrece el conjunto de servicios de machine learning e infraestructura de soporte en la nube, mas amplio y completo, ya que pone los recursos de machine learning, al alcance de cualquier desarrollador, analista de datos y profesional experto. AWS, nombrado lider en el cuadrante magico de Gartner sobre servicios de IA para desarrolladores, en la nube, ayuda a decenas de miles de clientes a acelerar sus proyectos de Machine Learning.
