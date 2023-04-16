@@ -1,0 +1,4 @@
+1. El archivo contiene un total de: 6 saltos de linea.
+2. El archivo contiene un total de: 71 palabras, sin contar los espacios.
+3. El archivo contiene un total de: 369 caracteres.
+4. En el archivo La palabra (Python) se encuenta: 3 veces.
